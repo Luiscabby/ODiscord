@@ -8,7 +8,7 @@ const Self_Args = process.argv.slice(2)
 
 //Main
 if(!Self_Args.length){
-    console.log(`node index.js <input>
+    console.log(`node index.js <1253203887008256114>
 Example: node index.js ex_discord_tokens.txt`)
     process.exit()
 }
